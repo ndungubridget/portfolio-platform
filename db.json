@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "E-Commerce Website",
+      "category": "Web Development",
+      "description": "An online shopping platform with a clean and responsive design.",
+      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
+      "details": "This project involved developing an online shopping experience with product listings, navigation and a responsive layout."
+    },
+    {
+      "id": "2",
+      "title": "Restaurant Website",
+      "category": "UI/UX Design",
+      "description": "A modern website designed for a restaurant.",
+      "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800",
+      "details": "This project focused on restaurant branding, menu presentation and a user-friendly interface."
+    },
+    {
+      "id": "3",
+      "title": "Weather Dashboard",
+      "category": "Web Application",
+      "description": "A dashboard displaying weather information.",
+      "image": "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=800",
+      "details": "This project demonstrates dashboard design and displaying information from external data sources."
+    },
+    {
+      "id": "qYDrSHEkuzE",
+      "title": "Personal Portfolio",
+      "category": "Web Development",
+      "description": "A personal website showcasing my development skills.",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
+      "details": "Built using React, CSS and JavaScript."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
